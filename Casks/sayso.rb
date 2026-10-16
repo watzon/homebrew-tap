@@ -1,6 +1,6 @@
 cask "sayso" do
-  version "0.8.0"
-  sha256 "c6c3926fd90e0991850054da28eb9c24a1eb333d6e214f835417c06dff49c425"
+  version "0.9.0"
+  sha256 "6b6e16c1067c60118917be2143ded657d15179deb3e3de804d3d231c27b0e8ab"
 
   url "https://github.com/watzon/sayso/releases/download/v#{version}/Sayso-#{version}-macos-arm64.dmg"
   name "Sayso"
